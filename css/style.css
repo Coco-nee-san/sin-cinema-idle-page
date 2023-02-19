@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-	background-image: url(../images/background.png);
+	background-image: url(../images/Spring-2023.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	width: 100%;
@@ -88,7 +88,7 @@ body {
 	padding-bottom: 30px;
 	text-shadow:1px 1px 10px #0000, 1px 1px 10px #ccc;
 	text-align: center;
-	color: white;
+	color: black;
 	line-height: 20pt;
 }
 
