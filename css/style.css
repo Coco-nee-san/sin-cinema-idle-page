@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-	background-image: url(../images/summer-2023.png);
+	background-image: url(../images/sincinema_background.png);
 	z-index: -1;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -18,11 +18,26 @@ body {
 	background-color: black;
 	backdrop-filter: blur(5px);
 }
-
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#particles-js-two {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#particles-js-three {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
 .logo {
-	background-image: url(../images/logo.png);
+	background-image: url(../images/sincinemalogo.png);
 	background-repeat: no-repeat;
 	background-position: center; 
+	background-size:50% auto;
 	width: 100%;
 	height: 100%;
 }
